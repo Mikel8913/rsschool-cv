@@ -8,6 +8,7 @@ Become a software developer and develop in this direction.
 Skills:
 HTML;
 Git;
+JS;
 Experience:
 No
 
